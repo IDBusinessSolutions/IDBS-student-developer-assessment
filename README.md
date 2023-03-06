@@ -24,7 +24,7 @@ The application is a standalone application; it does not interact with the "outs
 
 Note: you need to have java 8 or greater installed in your environment to run the assessment application.
 
-[text enter image description here](./images/AssessmentApp.png)
+![Assessment app opening screen](./images/AssessmentApp.png)
 
 
 ### Submit your solution
