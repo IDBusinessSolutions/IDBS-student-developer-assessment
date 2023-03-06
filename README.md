@@ -14,7 +14,9 @@ Download this repository to your local environment - either clone or download a 
 ***A note on forking:*** it is best NOT to fork the repository. By forking the repo you will create another ***public repo*** that all other candidates can see and use. This is non-ideal for privacy of your application process.
 
 ### Step Two 
-All instructions on how to develop, integrate and ultimately submit your solution can be found by running the assessment application itself. This can be easily achieved by running the "windows cmd" or "bash sh" command line file found in the root directory. 
+All instructions on how to develop, integrate and ultimately submit your solution can be found by running the assessment application itself. This can be easily achieved by running the "windows cmd" or "bash sh" command line file found in the root directory. Alternatively there are two videos showing how the applicaton can be imported into an IDE (Eclipse & Intelli-J) and excuted - ultimately this is what you need to do so this is a good alternative to getting started (please note the videos were recorded against a slightly older verion of the application and the app does look slightly different now).
+
+If you have any problems getting the application into your IDE and/or getting your solution to work please DO reach out to us at IDBS via the email used in setting up interviews.
 
 Once the application starts, further information on how to develop and integrate your solution can be found via the buttons ***Task Details*** and ***Integration Instructions***  at the top of the application's screen (see below).
 
