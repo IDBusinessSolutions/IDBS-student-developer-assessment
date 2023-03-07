@@ -18,7 +18,7 @@ import com.idbs.devassessment.core.DifficultyLevel;
  * Example solution for the example question
  */
 
-public class CandidateSolution extends CandidateSolutionBase
+public class CandidateSolution extends AssessmentSolutionBase
 {
     @Override
     public DifficultyLevel getDifficultyLevel()
